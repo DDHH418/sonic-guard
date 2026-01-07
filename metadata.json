@@ -1,0 +1,7 @@
+{
+  "name": "SonicGuard - Noise Monitoring & Prediction",
+  "description": "A smart noise pollution tracking dashboard that monitors live decibel levels, predicts long-term exposure risks, and provides AI-driven prevention tips with a touch of humor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
